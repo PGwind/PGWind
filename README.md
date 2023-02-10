@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Echo's %20Blog%22);个人博客：liveout.cn&center=true&size=27">
+  <a href="https://liveout.cn/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Echo %20Blog%22);个人博客：liveout.cn&center=true&size=27">
   </a>
 </h1>
 
