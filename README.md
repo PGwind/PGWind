@@ -1,4 +1,4 @@
-### Hi Look at there 👋
+### Hi there 👋
 ## Blog： <a href="https://www.liveout.cn/" target="_blank">liveout.cn</a>
 
 
